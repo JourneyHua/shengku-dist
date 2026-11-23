@@ -1,0 +1,9 @@
+{
+  "version": "0.10.5",
+  "zip": "https://github.com/JourneyHua/shengku-dist/releases/download/v0.10.5/Shengku-0.10.5-win-x64.zip",
+  "bytes": 2750588,
+  "sha256": "595488b9369e9c34f1ee152c93a63ad67bbc8d7e3de18ac8cb2eded95892c858",
+  "publishedAt": "2026-11-23T08:28:58Z",
+  "minSchema": 8,
+  "notesUrl": "https://github.com/JourneyHua/music-library/releases/tag/v0.10.5"
+}
