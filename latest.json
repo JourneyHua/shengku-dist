@@ -1,9 +1,9 @@
 {
-  "version": "0.10.12",
-  "zip": "https://github.com/JourneyHua/shengku-dist/releases/download/v0.10.12/Shengku-0.10.12-win-x64.zip",
-  "bytes": 2931821,
-  "sha256": "bb8d6ad18795fbe38444b150285302969163e10a5e6040822d9f39cdf568ed14",
-  "publishedAt": "2026-11-24T13:30:36Z",
+  "version": "0.10.13",
+  "zip": "https://github.com/JourneyHua/shengku-dist/releases/download/v0.10.13/Shengku-0.10.13-win-x64.zip",
+  "bytes": 3006663,
+  "sha256": "727b48b96d33ad57bb94461d3ecf28e1948f59e8025be7e31d963e3ea60e10e9",
+  "publishedAt": "2026-11-26T06:26:45Z",
   "minSchema": 8,
-  "notesUrl": "https://github.com/JourneyHua/shengku-dist/releases/tag/v0.10.12"
+  "notesUrl": "https://github.com/JourneyHua/shengku-dist/releases/tag/v0.10.13"
 }
